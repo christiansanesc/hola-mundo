@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: Christian S.
 Fecha: 6 de Febrero
